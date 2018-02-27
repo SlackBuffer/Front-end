@@ -1,0 +1,5 @@
+- Same origin
+    - For pages - protocol, port and host are the same.
+    - For files
+        - [Same-origin policy for file: URIs](https://developer.mozilla.org/en-US/docs/Archive/Misc_top_level/Same-origin_policy_for_file:_URIs)
+- [Same-origin policy](https://developer.mozilla.org/en-US/docs/Web/Security/Same-origin_policy#Cross-origin_data_storage_access)
